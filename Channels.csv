@@ -1,0 +1,636 @@
+Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude
+1,Home Hotspot,Digital,	430.43750,	439.43750,,1,1,None,HOTSPOT,None,Off,Off,,,,P2,No,No,No,90,Off,No,No,None,0,0
+2,APRS,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,P9,No,No,No,90,Off,No,No,APRS,0,0
+3,W7BU Astoria,Analogue,	444.85000,	449.85000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+4,W7BU Chinook Meg,Analogue,	440.92500,	445.92500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+5,NA7Q Chinook,Analogue,	440.96250,	445.96250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+6,NM7R Chinook Meg,Analogue,	444.92500,	449.92500,12.5,,,,,,,,None,82.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+7,W7BU Astoria Wic,Analogue,	444.77500,	449.77500,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+8,W7BU Astoria Wi1,Analogue,	442.50000,	447.50000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+9,NM7R Long Beach,Analogue,	444.80000,	449.80000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+10,NM7R Naselle Nas,Analogue,	440.67500,	445.67500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+11,N7PIR Seaside,Analogue,	443.87500,	448.87500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+12,N7XAC Astoria Ni,Analogue,	444.50000,	449.50000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+13,N7XAC Lebam KO P,Analogue,	441.67500,	446.67500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+14,K7PP Raymond K.O,Analogue,	441.30000,	446.30000,12.5,,,,,,,,151.4,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+15,W7EM Manzanita A,Analogue,	440.17500,	445.17500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+16,W7BU Chinook Me1,Analogue,	145.45000,	144.85000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+17,NA7Q Hammond,Analogue,	147.52000,	147.52000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+18,NM7R Chinook Me1,Analogue,	147.18000,	147.78000,12.5,,,,,,,,None,82.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+19,W7BU Gearhart,Analogue,	146.80000,	146.20000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+20,NA7Q Knappa,Analogue,	147.16000,	147.76000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+21,K7RPT Astoria Wi,Analogue,	146.72000,	146.12000,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+22,W7BU Astoria Wi2,Analogue,	146.66000,	146.06000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+23,WA7VE Seaside re,Analogue,	145.49000,	144.89000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+24,NM7R Cathlamet K,Analogue,	147.02000,	147.62000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+25,W7BU Astoria Nic,Analogue,	146.76000,	146.16000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+26,NM7R Ocean Park,Analogue,	145.17000,	144.57000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+27,W7BU Cannon Beac,Analogue,	146.74000,	146.14000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+28,KF7CFR Burlingto,Analogue,	441.95000,	446.95000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+29,K7OET Mount Vern,Analogue,	444.35000,	449.35000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+30,N7CRA Mount Vern,Analogue,	444.62500,	449.62500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+31,WA7ZUS Lyman Lym,Analogue,	444.50000,	449.50000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+32,AF7PR Bellingham,Analogue,	440.92500,	445.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+33,W7PSE Anacortes,Analogue,	441.72500,	446.72500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+34,KG7OCP Anacortes,Analogue,	443.35000,	448.35000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+35,WC7SO Bellingham,Analogue,	440.47500,	445.47500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+36,W7ECG Bellingham,Analogue,	442.25000,	447.25000,12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+37,WA7SV Bellingham,Analogue,	442.75000,	447.75000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+38,W7PIG Camano Isl,Analogue,	441.05000,	446.05000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+39,W7BFD Bellingham,Analogue,	442.30000,	447.30000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+40,N7FYT Bellingham,Analogue,	441.92500,	446.92500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+41,N7XCG Arlington,Analogue,	440.40000,	445.40000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+42,K7SKW Bellingham,Analogue,	443.75000,	448.75000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+43,K7SKW Bellingha1,Analogue,	443.65000,	448.65000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+44,N7NFY Arlington,Analogue,	443.22500,	448.22500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+45,N7JN Orcas Islan,Analogue,	443.45000,	448.45000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+46,K7SKW Orcas Isla,Analogue,	444.05000,	449.05000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+47,KD7KAB Lopez Isl,Analogue,	443.47500,	448.47500,12.5,,,,,,,,None,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+48,N7KN Greenbank W,Analogue,	441.42500,	446.42500,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+49,W7ECG Ferndale F,Analogue,	440.73750,	445.73750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+50,W7ECG Ferndale,Analogue,	442.82500,	447.82500,12.5,,,,,,,,None,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+51,K7MLR Marysville,Analogue,	444.20000,	449.20000,12.5,,,,,,,,None,D172N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+52,W7BPD Kendall Su,Analogue,	440.37500,	445.37500,12.5,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+53,W7JCR Port Towns,Analogue,	443.82500,	448.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+54,N7JN Friday Harb,Analogue,	442.46250,	447.46250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+55,AA7MI Nordland M,Analogue,	440.72500,	445.72500,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+56,WA7LAW Everett,Analogue,	444.57500,	449.57500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+57,Darrington Gold,Analogue,	444.30000,	449.30000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+58,NR7SS Snohomish,Analogue,	440.32500,	445.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+59,WE7DEM Clinton w,Analogue,	440.37500,	445.37500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+60,NR7SS Everett,Analogue,	440.35000,	445.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+61,W7BPD Blaine,Analogue,	440.37500,	445.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+62,WA7DEM Snohomish,Analogue,	442.97500,	447.97500,12.5,,,,,,,,None,D172N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+63,KG7QPU Snohomish,Analogue,	441.15000,	446.15000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+64,KG7QPU Snohomis1,Analogue,	443.90000,	448.90000,12.5,,,,,,,,151.4,151.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+65,W7PSE Sequim May,Analogue,	442.42500,	447.42500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+66,N7NFY Sequim Bly,Analogue,	442.80000,	447.80000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+67,W7FLY Lynnwood A,Analogue,	443.92500,	448.92500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+68,WR7DS Mill Creek,Analogue,	442.72500,	447.72500,12.5,,,,,,,,D172N,D172N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+69,WB0CZA Sequim Du,Analogue,	441.12500,	446.12500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+70,KC7EQO Sequim Bl,Analogue,	442.10000,	447.10000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+71,WA7DMR Sequim Bl,Analogue,	440.48750,	445.48750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+72,NW7DR Kingston T,Analogue,	444.72500,	449.72500,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+73,N7GDE Lyman Lyma,Analogue,	145.19000,	144.59000,12.5,,,,,,,,None,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+74,WC7SO Bellingha1,Analogue,	146.45000,	147.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+75,W7PIG Camano Is1,Analogue,	147.36000,	147.96000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+76,K7SKW Bellingha2,Analogue,	147.16000,	147.76000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+77,AF7PR Bellingha1,Analogue,	146.50000,	147.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+78,W7AVM Coupeville,Analogue,	146.86000,	146.26000,12.5,,,,,,,,None,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+79,K7SKW Orcas Isl1,Analogue,	146.74000,	146.14000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+80,WB7VYA Granite F,Analogue,	146.92000,	146.32000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+81,WA7COM Marysvill,Analogue,	147.38000,	147.98000,12.5,,,,,,,,D156N,D156N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+82,W7BPD Kendall S1,Analogue,	145.23000,	144.63000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+83,W7AVM Langley Wh,Analogue,	147.22000,	147.82000,12.5,,,,,,,,None,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+84,W7JCR Port Town1,Analogue,	145.15000,	144.55000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+85,N7JN Friday Har1,Analogue,	145.25000,	144.65000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+86,WA7LAW Everett1,Analogue,	147.18000,	147.78000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+87,KH6VM Everett,Analogue,	147.12000,	147.72000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+88,N7NFY Lynnwood,Analogue,	146.80000,	146.20000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+89,W2ZT Everett,Analogue,	145.39000,	144.79000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+90,N7JN Friday Har2,Analogue,	146.70000,	146.10000,12.5,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+91,KA7HRC Hood Rive,Analogue,	444.90000,	449.90000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+92,NB7M White Salmo,Analogue,	443.17500,	448.17500,12.5,,,,,,,,None,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+93,N7LF Hood River,Analogue,	443.07500,	448.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+94,AF7YV Hood River,Analogue,	440.60000,	445.60000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+95,W6TQF Mill A Aug,Analogue,	440.32500,	445.32500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+96,KB7APU Carson,Analogue,	440.63750,	445.63750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+97,KF7LN Cascade Lo,Analogue,	440.95000,	445.95000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+98,N7LF Cascade Loc,Analogue,	443.32500,	448.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+99,KF7LN The Dalles,Analogue,	444.70000,	449.70000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+100,N7LF The Dalles,Analogue,	443.10000,	448.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+101,N7LF Trout Lake,Analogue,	443.25000,	448.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+102,K7PN Government,Analogue,	444.15000,	449.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+103,K7RPT Timberline,Analogue,	444.22500,	449.22500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+104,N7PIR Government,Analogue,	443.87500,	448.87500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+105,W7RAG Underwood,Analogue,	147.20000,	147.80000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+106,KF7LN Hood River,Analogue,	147.10000,	147.70000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+107,WA7ROB Hood Rive,Analogue,	145.15000,	144.55000,12.5,,,,,,,,None,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+108,KC7LDD The Dalle,Analogue,	146.74000,	146.14000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+109,KB7APU Carson Re,Analogue,	145.25000,	144.65000,12.5,,,,,,,,None,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+110,WA7SAR Trout Lak,Analogue,	147.08000,	147.68000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+111,KJ7IY Clackamas,Analogue,	146.80000,	146.20000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+112,K7RPT Timberlin1,Analogue,	147.12000,	147.72000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+113,N7LF Corbett Loo,Analogue,	145.41000,	144.81000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+114,W7DG Longview,Analogue,	444.90000,	449.90000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+115,N3EG Longview Co,Analogue,	442.12500,	447.12500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+116,AB7F Longview,Analogue,	440.37500,	445.37500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+117,N3EG Rainier Ran,Analogue,	441.70000,	446.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+118,W7MSH Kelso Moun,Analogue,	444.72500,	449.72500,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+119,WB7DFV Kalama,Analogue,	442.82500,	447.82500,12.5,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+120,KA7KUB Longview,Analogue,	440.22500,	445.22500,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+121,KD7HTE Chehalis,Analogue,	444.45000,	449.45000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+122,N8VJP Woodland,Analogue,	440.57500,	445.57500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+123,K7LJ Woodland,Analogue,	444.47500,	449.47500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+124,W7BO Woodland Oi,Analogue,	442.17500,	447.17500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+125,AA7BG Scappoose,Analogue,	441.86250,	446.86250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+126,KK7DFM Chehalis,Analogue,	444.45000,	449.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+127,K7ABL La Center,Analogue,	444.92500,	449.92500,12.5,,,,,,,,None,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+128,KJ7IY Timber Hof,Analogue,	441.82500,	446.82500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+129,K7KFM Chehalis C,Analogue,	443.45000,	448.45000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+130,W7WRB Battle Gro,Analogue,	432.12500,	432.12500,12.5,,,,,,,,None,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+131,W7AIA Yacolt,Analogue,	443.12500,	448.12500,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+132,W7DG Longview1,Analogue,	147.26000,	147.86000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+133,W7DG Longview Co,Analogue,	147.10000,	147.70000,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+134,NA7Q Longview,Analogue,	147.58000,	147.58000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+135,N7EI Deer Island,Analogue,	146.88000,	146.28000,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+136,W7DG Woodland Fi,Analogue,	147.30000,	147.90000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+137,N7EI Warren McNu,Analogue,	146.68000,	146.08000,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+138,WA7DMR Chehalis,Analogue,	146.50000,	147.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+139,K7PG Chehalis Ba,Analogue,	147.06000,	147.66000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+140,K7KFM Chehalis1,Analogue,	146.74000,	146.14000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+141,KJ7IY Timber,Analogue,	145.27000,	144.67000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+142,KC7CKO Olympia,Analogue,	443.07500,	448.07500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+143,W7USJ Olympia,Analogue,	443.80000,	448.80000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+144,W6TOZ Lacey,Analogue,	440.55000,	445.55000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+145,WC7I Lacey,Analogue,	442.47500,	447.47500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+146,N7UJK Olympia Ca,Analogue,	444.95000,	449.95000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+147,W7WRG Olympia Ca,Analogue,	440.50000,	445.50000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+148,AF7PR Olympia Ca,Analogue,	440.71250,	445.71250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+149,NT7H Olympia Cra,Analogue,	441.40000,	446.40000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+150,K7YLM Yelm,Analogue,	440.20000,	445.20000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+151,N7SK Shelton,Analogue,	443.25000,	448.25000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+152,KE7YYD Tacoma Ma,Analogue,	442.75000,	447.75000,12.5,,,,,,,,146.2,146.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+153,WA7ROY Roy,Analogue,	444.17500,	449.17500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+154,K7NP University,Analogue,	442.37500,	447.37500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+155,N7EHP University,Analogue,	443.15000,	448.15000,12.5,,,,,,,,None,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+156,K7CEM Centralia,Analogue,	442.05000,	447.05000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+157,AF7PR Tacoma Rus,Analogue,	440.72500,	445.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+158,WA7DMR Tacoma,Analogue,	440.72500,	445.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+159,K7DKK Puyallup,Analogue,	444.75000,	449.75000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+160,W7DK Tacoma,Analogue,	440.62500,	445.62500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+161,K7HW Tacoma,Analogue,	444.17500,	449.17500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+162,WW7MST Tacoma,Analogue,	443.67500,	448.67500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+163,W7EOC Elma Minot,Analogue,	444.05000,	449.05000,12.5,,,,,,,,None,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+164,W7BBO Gig Harbor,Analogue,	440.22500,	445.22500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+165,WA7DR Graham Gra,Analogue,	442.92500,	447.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+166,K7CH Shelton Sou,Analogue,	440.65000,	445.65000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+167,W7USJ Shelton So,Analogue,	441.92500,	446.92500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+168,NT7H Olympia wat,Analogue,	147.36000,	147.96000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+169,N7EHP Tumwater,Analogue,	147.12000,	147.72000,12.5,,,,,,,,None,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+170,WC7I Lacey1,Analogue,	146.80000,	146.20000,12.5,,,,,,,,None,97.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+171,K7CPR Olympia Ca,Analogue,	145.47000,	144.87000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+172,WB7DOB Enumclaw,Analogue,	147.14000,	147.74000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+173,W7DK Tenino Craw,Analogue,	147.38000,	147.98000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+174,N7SK Shelton Wat,Analogue,	146.72000,	146.12000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+175,K7NP University1,Analogue,	145.29000,	144.69000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+176,K7CEM Centralia1,Analogue,	146.86000,	146.26000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+177,K7CEM Centralia2,Analogue,	145.49000,	144.89000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+178,W7DK Tacoma Ch 2,Analogue,	145.21000,	144.61000,12.5,,,,,,,,None,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+179,K7PG Chehalis Pe,Analogue,	145.43000,	144.83000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+180,WA7SRT Edgewood,Analogue,	146.64000,	146.04000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+181,W7DK Tacoma1,Analogue,	147.28000,	147.88000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+182,NM7E Belfair,Analogue,	145.17000,	144.57000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+183,KA7EOC Gig Harbo,Analogue,	145.35000,	144.75000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+184,KK7DFL Shelton S,Analogue,	145.27500,	144.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+185,N3KPU Graham,Analogue,	145.23000,	144.63000,12.5,,,,,,,,146.2,146.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+186,K7CH Olympia Sou,Analogue,	145.27000,	144.67000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+187,AB7F Randle,Analogue,	444.87500,	449.87500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+188,K7DNR Ashford,Analogue,	442.57500,	447.57500,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+189,W7PFR Eatonville,Analogue,	443.97500,	448.97500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+190,WB7DOB Buckley T,Analogue,	444.67500,	449.67500,12.5,,,,,,,,None,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+191,W7UDI Electron,Analogue,	444.25000,	449.25000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+192,AB7F Chehalis,Analogue,	443.27500,	448.27500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+193,WA7BF Cougar Mar,Analogue,	444.82500,	449.82500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+194,K7KFL Packwood,Analogue,	146.74000,	146.14000,12.5,,,,,,,,None,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+195,WW7CH Paradise M,Analogue,	146.78000,	146.18000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+196,K7TGU Ashford,Analogue,	145.25000,	144.65000,12.5,,,,,,,,186.2,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+197,WA7SAR Yakima Da,Analogue,	146.86000,	146.26000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+198,WB7DOB Greenwate,Analogue,	145.41000,	144.81000,12.5,,,,,,,,162.2,162.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+199,K7HW Mineral,Analogue,	146.68000,	146.08000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+200,W7EAT Eatonville,Analogue,	146.70000,	146.10000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+201,KB7CNN Alder,Analogue,	145.45000,	144.85000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+202,W7AQ Yakima Beth,Analogue,	147.30000,	147.90000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+203,K7DKK Eatonville,Analogue,	145.29000,	144.69000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+204,WB7DOB Buckley1,Analogue,	147.30000,	147.90000,12.5,,,,,,,,None,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+205,N7PRM Portland,Analogue,	444.80000,	449.80000,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+206,W7PMC Portland,Analogue,	443.22500,	448.22500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+207,K7LHS Portland E,Analogue,	440.82500,	445.82500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+208,K7RPT Portland S,Analogue,	440.51250,	445.51250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+209,K0HSU Portl OHSU,Analogue,	440.47500,	445.47500,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+210,K7LTA Portl OHSU,Analogue,	442.70000,	447.70000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+211,W7PGE Portland C,Analogue,	444.67500,	449.67500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+212,KB7OYI Portland,Analogue,	440.35000,	445.35000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+213,WA7BND Portland,Analogue,	443.05000,	448.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+214,KA7AGH Portland,Analogue,	443.27500,	448.27500,12.5,,,,,,,,167.9,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+215,K7LJ Portland Co,Analogue,	442.65000,	447.65000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+216,W7RAT Portland K,Analogue,	440.40000,	445.40000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+217,K7RPT Portland1,Analogue,	442.22500,	447.22500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+218,K7NE Portland Co,Analogue,	443.30000,	448.30000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+219,WA7HAA Portland,Analogue,	444.83750,	449.83750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+220,W7EXH Portland S,Analogue,	441.35000,	446.35000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+221,W7DTV Portland S,Analogue,	443.62500,	448.62500,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+222,N7BAR Portland S,Analogue,	440.20000,	445.20000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+223,AB7BS Portland K,Analogue,	440.50000,	445.50000,12.5,,,,,,,,D125N,D125N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+224,N7PIR Portland S,Analogue,	440.45000,	445.45000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+225,K7KSN Portland S,Analogue,	440.15000,	445.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+226,WB1ARB Portland,Analogue,	442.25000,	447.25000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+227,N7NLL Portland W,Analogue,	442.02500,	447.02500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+228,W7PSV Beaverton,Analogue,	444.85000,	449.85000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+229,N7PRM Cedar Mill,Analogue,	444.80000,	449.80000,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+230,WB7CRT Beaverton,Analogue,	444.75000,	449.75000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+231,WA7LO Lake Osweg,Analogue,	444.30000,	449.30000,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+232,KB7APU Vancouver,Analogue,	442.96250,	447.96250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+233,KA7AGH Clackamas,Analogue,	441.32500,	446.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+234,KC7MZM Clackamas,Analogue,	440.30000,	445.30000,12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+235,WB7QIW Clackamas,Analogue,	443.47500,	448.47500,12.5,,,,,,,,167.9,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+236,KJ7IY Clackamas1,Analogue,	443.15000,	448.15000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+237,K7ICY Tigard QTH,Analogue,	440.10000,	445.10000,12.5,,,,,,,,None,162.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+238,W7AIA Vancouver,Analogue,	443.82500,	448.82500,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+239,NM7B Aloha,Analogue,	443.35000,	448.35000,12.5,,,,,,,,None,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+240,K6PRN Portland S,Analogue,	443.20000,	448.20000,12.5,,,,,,,,None,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+241,K0HSU Hillsboro,Analogue,	440.07500,	445.07500,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+242,KF7TTS Tigard Bu,Analogue,	440.17500,	445.17500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+243,K7GJT Vancouver,Analogue,	442.10000,	447.10000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+244,KA7OSM Aloha Coo,Analogue,	442.52500,	447.52500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+245,N7QQU Hillsboro,Analogue,	440.55000,	445.55000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+246,KJ7ECQ Tualatin,Analogue,	444.52500,	449.52500,12.5,,,,,,,,None,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+247,WA7DRO West Linn,Analogue,	441.65000,	446.65000,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+248,NA7A Tualatin Po,Analogue,	440.75000,	445.75000,12.5,,,,,,,,None,97.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+249,W7ZRS OR City Bo,Analogue,	442.07500,	447.07500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+250,N7KOJ Gresham Le,Analogue,	443.25000,	448.25000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+251,N7LF Gresham Hos,Analogue,	443.07500,	448.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+252,K7CPU Hillsboro,Analogue,	444.97500,	449.97500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+253,WB7DZG Sherwood,Analogue,	444.31250,	449.31250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+254,KJ7IY Sherwood,Analogue,	442.27500,	447.27500,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+255,KR7IS Sherwood,Analogue,	443.42500,	448.42500,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+256,K7REA Sherwood,Analogue,	442.57500,	447.57500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+257,AH6LE Newberg Ch,Analogue,	442.67500,	447.67500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+258,K7CFD Canby,Analogue,	444.45000,	449.45000,12.5,,,,,,,,None,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+259,AB7F Vancouver L,Analogue,	442.37500,	447.37500,12.5,,,,,,,,100.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+260,W7AIA Camas Livi,Analogue,	443.92500,	448.92500,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+261,K7RPT Newberg Ch,Analogue,	443.75000,	448.75000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+262,N7LF Corbett Lo1,Analogue,	443.10000,	448.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+263,WA7HAA Brush Pra,Analogue,	444.11250,	449.11250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+264,K7AUO Laurelwood,Analogue,	443.65000,	448.65000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+265,N7MAQ Newberg,Analogue,	444.48750,	449.48750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+266,KE7AWR Sandy,Analogue,	442.42500,	447.42500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+267,WA7RGO Newberg B,Analogue,	442.55000,	447.55000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+268,KJ7IY Sandy,Analogue,	442.87500,	447.87500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+269,KE7FUW Vancouver,Analogue,	443.67500,	448.67500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+270,WA7ABU Beavercre,Analogue,	444.60000,	449.60000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+271,W7DTV Molalla Mo,Analogue,	440.70000,	445.70000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+272,WB7DZG Colton,Analogue,	442.92500,	447.92500,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+273,K7LJ Portland C1,Analogue,	145.23000,	144.63000,12.5,,,,,,,,123.0,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+274,KE7AWR Portland,Analogue,	146.70000,	146.10000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+275,K7RPT Portland2,Analogue,	147.04000,	147.64000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+276,N7EXH Portland S,Analogue,	145.31000,	144.71000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+277,N7EXH Portland K,Analogue,	146.98000,	146.38000,12.5,,,,,,,,D023N,D023N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+278,W7AC Portland Sk,Analogue,	147.14000,	147.74000,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+279,K7LJ Portland Mt,Analogue,	145.39000,	144.79000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+280,K7RPT Cedar Mill,Analogue,	147.38000,	147.98000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+281,W7LT Clackamas M,Analogue,	146.94000,	146.34000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+282,WB7QIW Clackama1,Analogue,	147.28000,	147.88000,12.5,,,,,,,,167.9,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+283,W7LT Clackamas1,Analogue,	147.18000,	147.78000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+284,KB7APU Vancouve1,Analogue,	146.73000,	146.13000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+285,N7QQU Aloha Coop,Analogue,	147.36000,	147.96000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+286,NA7A Tualatin P1,Analogue,	145.25000,	144.65000,12.5,,,,,,,,None,97.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+287,K7BPR Camas Prun,Analogue,	147.08000,	147.68000,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+288,WB7DZG Sherwood1,Analogue,	146.62000,	146.02000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+289,KR7IS Sherwood1,Analogue,	145.47000,	144.87000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+290,KE7DC North Plai,Analogue,	145.45000,	144.85000,12.5,,,,,,,,None,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+291,AH6LE Sherwood P,Analogue,	146.92000,	146.32000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+292,AB7F Vancouver1,Analogue,	145.37000,	144.77000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+293,W7AIA Camas Liv1,Analogue,	147.24000,	147.84000,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+294,K7WWG Newberg Ch,Analogue,	146.90000,	146.30000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+295,KB7PSM Newberg C,Analogue,	145.11000,	144.51000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+296,W7LT Vancouver L,Analogue,	146.84000,	146.24000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+297,KJ7IY Colton,Analogue,	145.43000,	144.83000,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+298,AC7RF Salem,Analogue,	440.27500,	445.27500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+299,W7BJH Salem,Analogue,	442.50000,	447.50000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+300,K7RTL Salem,Analogue,	440.05000,	445.05000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+301,AB7F Salem,Analogue,	441.37500,	446.37500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+302,AD7ET Salem CCC,Analogue,	443.17500,	448.17500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+303,KB7PPM Salem,Analogue,	440.72500,	445.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+304,AB7BS Salem Eagl,Analogue,	442.45000,	447.45000,12.5,,,,,,,,D125N,D125N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+305,W7SRA Salem Pros,Analogue,	441.27500,	446.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+306,W7SRA Salem Pro1,Analogue,	443.72500,	448.72500,12.5,,,,,,,,186.2,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+307,W7DTV Salem Pros,Analogue,	441.17500,	446.17500,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+308,W7YAM McMinnvill,Analogue,	441.80000,	446.80000,12.5,,,,,,,,None,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+309,WA7ABU Salem Sil,Analogue,	444.95000,	449.95000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+310,W7SAA Silverton,Analogue,	444.25000,	449.25000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+311,KA7ENW Scio Rodg,Analogue,	442.85000,	447.85000,12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+312,KD6VLR Albany,Analogue,	444.97500,	449.97500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+313,KG7MKW Lyons McC,Analogue,	440.60000,	445.60000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+314,N8GFO Corvallis,Analogue,	442.30000,	447.30000,12.5,,,,,,,,None,162.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+315,W7GRT Grande Ron,Analogue,	442.82500,	447.82500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+316,KF7LDG Corvallis,Analogue,	434.91000,	439.91000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+317,AB7BS Corvallis,Analogue,	440.80000,	445.80000,12.5,,,,,,,,None,D125N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+318,AB7BS Corvallis1,Analogue,	441.72500,	446.72500,12.5,,,,,,,,None,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+319,W7OSU Corvallis,Analogue,	443.05000,	448.05000,12.5,,,,,,,,D032N,D032N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+320,KB7APU Mill City,Analogue,	442.97500,	447.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+321,KB7KUB Brownsvil,Analogue,	442.60000,	447.60000,12.5,,,,,,,,D023N,D023N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+322,N7PIR Colton Goa,Analogue,	443.70000,	448.70000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+323,W7OTV Colton Goa,Analogue,	440.25000,	445.25000,12.5,,,,,,,,None,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+324,WB6EGS Colton Go,Analogue,	441.40000,	446.40000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+325,K7LWV Salem Popc,Analogue,	145.35000,	144.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+326,WA7ABU Salem,Analogue,	145.29000,	144.69000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+327,W7SRA Salem Eagl,Analogue,	145.33000,	144.73000,12.5,,,,,,,,186.2,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+328,W7SRA Salem Pro2,Analogue,	146.86000,	146.26000,12.5,,,,,,,,None,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+329,AB7BS Salem Pros,Analogue,	145.49000,	144.89000,12.5,,,,,,,,91.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+330,W7RXJ McMinnvill,Analogue,	146.64000,	146.04000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+331,W1ARK Amity Eola,Analogue,	145.21000,	144.61000,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+332,WA7ABU Gates,Analogue,	145.19000,	144.59000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+333,W7SAA Silverton1,Analogue,	147.34000,	147.94000,12.5,,,,,,,,None,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+334,KA7ENW Scio Rod1,Analogue,	146.61000,	146.01000,12.5,,,,,,,,None,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+335,W1ARK Lyons McCu,Analogue,	147.06000,	147.66000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+336,W7OSU Corvallis1,Analogue,	147.16000,	147.76000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+337,W7GRT Grande Ro1,Analogue,	146.66000,	146.06000,12.5,,,,,,,,91.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+338,W7SRA Falls City,Analogue,	147.02000,	147.62000,12.5,,,,,,,,186.2,186.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+339,K7ENW Sweet Home,Analogue,	147.20000,	147.80000,12.5,,,,,,,,167.9,167.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+340,W7WZA Brownsvill,Analogue,	147.30000,	147.90000,12.5,,,,,,,,None,77.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+341,W7OTV Colton Go1,Analogue,	146.96000,	146.36000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+342,W7NK Brownsville,Analogue,	147.26000,	147.86000,12.5,,,,,,,,D026N,D026N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+343,K7SPG Seattle,Analogue,	444.00000,	449.00000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+344,KB7WCE Seattle,Analogue,	444.22500,	449.22500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+345,K7SLB Seattle,Analogue,	440.10000,	445.10000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+346,W7ACS Seattle,Analogue,	443.00000,	448.00000,12.5,,,,,,,,None,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+347,W7ACS Seattle1,Analogue,	443.47500,	448.47500,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+348,WW7SEA Seattle C,Analogue,	444.55000,	449.55000,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+349,AJ7JA Seattle Ca,Analogue,	444.37500,	449.37500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+350,W7ACS Seattle Ca,Analogue,	442.87500,	447.87500,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+351,W7ACS Seattle Be,Analogue,	440.52500,	445.52500,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+352,W7ACS Seattle B1,Analogue,	442.30000,	447.30000,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+353,WW7PSR Seattle C,Analogue,	440.77500,	445.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+354,WW7SEA Seattle K,Analogue,	444.42500,	449.42500,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+355,WW7SEA Seattle Q,Analogue,	444.70000,	449.70000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+356,KF7BJI South Sea,Analogue,	440.92500,	445.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+357,WW7MST Seattle B,Analogue,	443.55000,	448.55000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+358,K7IDS Seattle Se,Analogue,	444.77500,	449.77500,12.5,,,,,,,,None,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+359,W7AW Seattle Hig,Analogue,	440.97500,	445.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+360,W7AW Seattle Sou,Analogue,	441.80000,	446.80000,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+361,W7MIR Mercer Isl,Analogue,	440.15000,	445.15000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+362,W7ACS Seattle We,Analogue,	443.20000,	448.20000,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+363,W7BMW Seattle,Analogue,	445.82500,	445.82500,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+364,KC7IYE Bellevue,Analogue,	441.10000,	446.10000,12.5,,,,,,,,156.7,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+365,N7ERP Bellevue C,Analogue,	441.28750,	446.28750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+366,K7LWH Bellevue L,Analogue,	444.60000,	449.60000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+367,K7LWH Bellevue,Analogue,	443.06250,	448.06250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+368,WW7MST Seattle N,Analogue,	444.82500,	449.82500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+369,K7LWH Kirkland,Analogue,	441.07500,	446.07500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+370,W7ACS Seattle Ro,Analogue,	443.65000,	448.65000,12.5,,,,,,,,None,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+371,K7LFP Shoreline,Analogue,	440.12500,	445.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+372,KF7BFT Tukwila S,Analogue,	440.42500,	445.42500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+373,K7FDF Renton,Analogue,	443.60000,	448.60000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+374,W7BUR Burien Gre,Analogue,	441.12500,	446.12500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+375,N6OBY Redmond,Analogue,	440.67500,	445.67500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+376,W7AUX Shoreline,Analogue,	440.30000,	445.30000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+377,W7NPC Bainbridge,Analogue,	444.47500,	449.47500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+378,KF7BJI Bellevue,Analogue,	444.85000,	449.85000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+379,W7NPC Bainbridg1,Analogue,	444.56250,	449.56250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+380,WA7ST Seatac Sea,Analogue,	443.10000,	448.10000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+381,N7IH Kirkland,Analogue,	443.57500,	448.57500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+382,W7AUX Sho CRISTA,Analogue,	442.82500,	447.82500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+383,KE7GFZ Bellevue,Analogue,	441.82500,	446.82500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+384,N6OBY Bellevue C,Analogue,	443.32500,	448.32500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+385,KF7BFS SeaTac St,Analogue,	440.27500,	445.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+386,W7ACS Seattle La,Analogue,	440.60000,	445.60000,12.5,,,,,,,,141.3,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+387,W7ACS Seattle L1,Analogue,	441.02500,	446.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+388,K7MMI Bellevue C,Analogue,	442.32500,	447.32500,12.5,,,,,,,,None,151.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+389,KF7BJI Issaquah,Analogue,	441.55000,	446.55000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+390,K7OET Bellevue C,Analogue,	444.32500,	449.32500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+391,K7PP Bellevue Co,Analogue,	443.40000,	448.40000,12.5,,,,,,,,151.4,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+392,WA7HJR Bothell,Analogue,	442.55000,	447.55000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+393,KC7IGT Renton,Analogue,	441.45000,	446.45000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+394,KG7CM Vashon Isl,Analogue,	443.77500,	448.77500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+395,W7VMI Vashon Isl,Analogue,	443.50000,	448.50000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+396,WA7DEM Mountlake,Analogue,	443.72500,	448.72500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+397,K6RFK Woodinvill,Analogue,	442.77500,	447.77500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+398,AG7NA Woodinvill,Analogue,	430.00000,	430.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+399,N7MTC Bremerton,Analogue,	443.05000,	448.05000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+400,KF7UUY Bothell,Analogue,	441.26250,	446.26250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+401,K7SLB Bothell,Analogue,	440.05000,	445.05000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+402,WE7SCA Edmonds,Analogue,	444.02500,	449.02500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+403,K7OET Bremerton,Analogue,	442.25000,	447.25000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+404,WA7JH Bremerton,Analogue,	441.17500,	446.17500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+405,W7PSE Bremerton,Analogue,	441.75000,	446.75000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+406,N6CES Lynnwood,Analogue,	444.67500,	449.67500,12.5,,,,,,,,173.8,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+407,K7DK Quilcene Bu,Analogue,	440.95000,	445.95000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+408,N9VW Issaquah,Analogue,	440.25000,	445.25000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+409,WA7HJR Issaquah,Analogue,	444.63750,	449.63750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+410,WB7DOB Renton La,Analogue,	441.37500,	446.37500,12.5,,,,,,,,173.8,173.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+411,N7KGJ Issaquah S,Analogue,	444.52500,	449.52500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+412,K7OET Bremerton1,Analogue,	444.80000,	449.80000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+413,W7KWS Kingston,Analogue,	442.22500,	447.22500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+414,WR7HE Olalla,Analogue,	440.22500,	445.22500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+415,WA6PMX Poulsbo,Analogue,	442.20000,	447.20000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+416,WA7FW Federal Wa,Analogue,	443.85000,	448.85000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+417,K7NWS Issaquah W,Analogue,	442.07500,	447.07500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+418,W6AV Port Orchar,Analogue,	441.57500,	446.57500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+419,WA7FW Federal W1,Analogue,	442.95000,	447.95000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+420,WA7HJR Issaquah1,Analogue,	444.65000,	449.65000,12.5,,,,,,,,131.8,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+421,K7DNR Issaquah T,Analogue,	442.60000,	447.60000,12.5,,,,,,,,None,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+422,K7KG Issaquah Ti,Analogue,	443.30000,	448.30000,12.5,,,,,,,,None,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+423,W7WWI Issaquah E,Analogue,	442.02500,	447.02500,12.5,,,,,,,,None,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+424,KF7BJI Hobart Ra,Analogue,	442.15000,	447.15000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+425,KF7NPL Maple Val,Analogue,	442.67500,	447.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+426,KE7GFZ Duvall,Analogue,	443.25000,	448.25000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+427,WW7RA Bremerton,Analogue,	442.65000,	447.65000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+428,K7PP Bremerton G,Analogue,	441.20000,	446.20000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+429,W7TWA Bremerton,Analogue,	441.50000,	446.50000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+430,WA7FW Federal W2,Analogue,	442.92500,	447.92500,12.5,,,,,,,,D036N,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+431,K7SLB Monroe Rat,Analogue,	443.12500,	448.12500,12.5,,,,,,,,110.9,156.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+432,N7SNO Snoqualmie,Analogue,	444.92500,	449.92500,12.5,,,,,,,,None,85.4,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+433,N7SNO Snoqualmi1,Analogue,	442.70000,	447.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+434,W7EAT Eatonvill1,Analogue,	442.72500,	447.72500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+435,W7PSE North Bend,Analogue,	441.77500,	446.77500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+436,W7PSE Sumner Whi,Analogue,	443.62500,	448.62500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+437,WA7WKT Quilcene,Analogue,	444.30000,	449.30000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+438,W7SKY Sultan,Analogue,	444.12500,	449.12500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+439,WB0CZA Quilcene,Analogue,	441.12500,	446.12500,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+440,W2ZT Quilcene Bu,Analogue,	442.50000,	447.50000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+441,WC7T Sultan Hays,Analogue,	441.87500,	446.87500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+442,WO7O Quilcene Ho,Analogue,	443.42500,	448.42500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+443,WA7VC North Bend,Analogue,	440.72500,	445.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+444,WA7VC North Ben1,Analogue,	446.52500,	446.52500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+445,WA7VC North Ben2,Analogue,	440.01250,	445.01250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+446,WA7LBS Buckley,Analogue,	443.02500,	448.02500,12.5,,,,,,,,None,107.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+447,N7NFY Gold Bar H,Analogue,	443.87500,	448.87500,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+448,WC7T Everett,Analogue,	444.97500,	449.97500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+449,W7EAR Gold Bar,Analogue,	442.17500,	447.17500,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+450,K7OET Enumclaw B,Analogue,	444.80000,	449.80000,12.5,,,,,,,,None,141.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+451,W7PSE Enumclaw B,Analogue,	441.70000,	446.70000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+452,WA7DMR Enumclaw,Analogue,	441.35000,	446.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+453,W7TWA Enumclaw B,Analogue,	441.62500,	446.62500,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+454,WB7DOB Enumclaw1,Analogue,	442.62500,	447.62500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+455,WW7PSR Seattle1,Analogue,	146.96000,	146.36000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+456,WW7MST Seattle1,Analogue,	146.90000,	146.30000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+457,W7AW Seattle Wes,Analogue,	145.13000,	144.53000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+458,W7MIR Mercer Is1,Analogue,	147.16000,	147.76000,12.5,,,,,,,,146.2,146.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+459,WA7DMR Bellevue,Analogue,	147.02000,	147.62000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+460,K7LWH Bellevue1,Analogue,	146.41250,	147.41250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+461,K7LWH Kirkland R,Analogue,	145.49000,	144.89000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+462,W7WWI Issaquah T,Analogue,	147.08000,	147.68000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+463,K7SLB Bellevue C,Analogue,	146.47500,	147.47500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+464,KC7IYE Redmond,Analogue,	145.31000,	144.71000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+465,NC7G Seatac SeaT,Analogue,	146.66000,	146.06000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+466,W7RNK Issaquah C,Analogue,	147.99500,	147.39500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+467,K6RFK Woodinvil1,Analogue,	147.34000,	147.94000,12.5,,,,,,,,None,100.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+468,W7DX Redmond Uni,Analogue,	147.00000,	146.40000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+469,WA7DEM Lynnwood,Analogue,	146.78000,	146.18000,12.5,,,,,,,,None,D172N,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+470,N7IG Port Orchar,Analogue,	145.39000,	144.79000,12.5,,,,,,,,None,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+471,K7TGU Issaquah,Analogue,	146.42500,	147.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+472,NW7DR Kingston N,Analogue,	147.46250,	146.46250,12.5,,,,,,,,210.7,210.7,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+473,K7CST Kent,Analogue,	147.32000,	147.92000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+474,KD7WDG Silverdal,Analogue,	145.43000,	144.83000,12.5,,,,,,,,None,88.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+475,K7NWS Issaquah1,Analogue,	145.33000,	144.73000,12.5,,,,,,,,179.9,179.9,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+476,K7PF Issaquah Ti,Analogue,	146.88000,	146.28000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+477,KC7RAS Issaquah,Analogue,	147.10000,	147.70000,12.5,,,,,,,,None,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+478,WA7FW Federal W3,Analogue,	146.84000,	146.24000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+479,WA7FW Federal W4,Analogue,	146.76000,	146.16000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+480,WA7FW Federal W5,Analogue,	147.04000,	147.64000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+481,KF7NPL Maple Va1,Analogue,	147.26000,	147.86000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+482,KE7GFZ Carnation,Analogue,	145.59000,	145.59000,12.5,,,,,,,,None,162.2,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+483,KF7BJI Issaquah1,Analogue,	146.87500,	146.27500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+484,K7LED Issaquah T,Analogue,	146.82000,	146.22000,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+485,K7SYE Auburn,Analogue,	147.24000,	147.84000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+486,WW7RA Bremerton1,Analogue,	146.62000,	146.02000,12.5,,,,,,,,None,103.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+487,KC7SAR North Ben,Analogue,	145.11000,	144.51000,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+488,WB7DVN Eldon,Analogue,	146.45000,	147.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+489,AF7PR Enumclaw B,Analogue,	146.43750,	147.43750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+490,K7MMI Enumclaw B,Analogue,	146.98000,	146.38000,12.5,,,,,,,,None,131.8,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+491,W7AAO Enumclaw G,Analogue,	145.37000,	144.77000,12.5,,,,,,,,None,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+494,FM 146.52,Analogue,	146.52000,	146.52000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+495,FM 146.53,Analogue,	146.53000,	146.53000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+496,FM 146.54,Analogue,	146.54000,	146.54000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+497,FM 146.55,Analogue,	146.55000,	146.55000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+498,FM 146.56,Analogue,	146.56000,	146.56000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+499,FM 146.57,Analogue,	146.57000,	146.57000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+500,FM 146.58,Analogue,	146.58000,	146.58000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+501,FM 147.52,Analogue,	147.52000,	147.52000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+502,FM 147.53,Analogue,	147.53000,	147.53000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+503,FM 147.54,Analogue,	147.54000,	147.54000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+504,FM 147.55,Analogue,	147.55000,	147.55000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+505,FM 147.56,Analogue,	147.56000,	147.56000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+506,FM 147.57,Analogue,	147.57000,	147.57000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+507,FM 147.58,Analogue,	147.58000,	147.58000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+508,FM 147.59,Analogue,	147.59000,	147.59000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+509,FM 147.60,Analogue,	147.60000,	147.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+510,FM 446.000,Analogue,	446.00000,	446.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+511,FM 446.025,Analogue,	446.02500,	446.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+512,FM 445.8,Analogue,	445.80000,	445.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+513,FM 445.825,Analogue,	445.82500,	445.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+514,FM 445.85,Analogue,	445.85000,	445.85000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+515,FM 445.875,Analogue,	445.87500,	445.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+516,FM 445.9,Analogue,	445.90000,	445.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+517,FM 445.975,Analogue,	445.97500,	445.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+518,GM136 1,Analogue,	462.55000,	462.55000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+519,GM136 2,Analogue,	462.57500,	462.57500,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+520,GM136 3,Analogue,	462.60000,	462.60000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+521,GM136 4,Analogue,	462.62500,	462.62500,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+522,GM136 5,Analogue,	462.65000,	462.65000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+523,GM136 6,Analogue,	462.67500,	462.67500,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+524,GM136 7,Analogue,	462.70000,	462.70000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+525,GM136 8,Analogue,	462.72500,	462.72500,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+526,M136 1,Analogue,	151.82000,	151.82000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+527,M136 2,Analogue,	151.88000,	151.88000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+528,M136 3,Analogue,	151.94000,	151.94000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+529,M136 4,Analogue,	154.57000,	154.57000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+530,M136 5,Analogue,	154.60000,	154.60000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
+531,FRS 1,Analogue,	462.56250,	462.56250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+532,FRS 2,Analogue,	462.58750,	462.58750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+533,FRS 3,Analogue,	462.61250,	462.61250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+534,FRS 4,Analogue,	462.63750,	462.63750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+535,FRS 5,Analogue,	462.66750,	462.66750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+536,FRS 6,Analogue,	462.68750,	462.68750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+537,FRS 7,Analogue,	462.71250,	462.71250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+538,FRS 8 (IS),Analogue,	467.56250,	467.56250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+539,FRS 9 (IS),Analogue,	467.58750,	467.58750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+540,FRS 10 (IS),Analogue,	467.61250,	467.61250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+541,FRS 11 (IS),Analogue,	467.63750,	467.63750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+542,FRS 12 (IS),Analogue,	467.66250,	467.66250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+543,FRS 13 (IS),Analogue,	467.68750,	467.68750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+544,FRS 14 (IS),Analogue,	467.71250,	467.71250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+545,GMRS 1 (15),Analogue,	462.55000,	462.55000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+546,GMRS 2 (16),Analogue,	462.57500,	462.57500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+547,GMRS 3 (17),Analogue,	462.60000,	462.60000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+548,GMRS 4 (18),Analogue,	462.62500,	462.62500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+549,GMRS 5 (19),Analogue,	462.65000,	462.65000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+550,GMRS 6 (20),Analogue,	462.67500,	462.67500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+551,GMRS 7 (21),Analogue,	462.70000,	462.70000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+552,GMRS 8 (22),Analogue,	462.72500,	462.72500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+553,MURS 1,Analogue,	151.82000,	151.82000,12.5,,,,,,,,None,None,Disabled,P6,No,No,Yes,90,Off,No,No,None,0,0
+554,MURS 2,Analogue,	151.88000,	151.88000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+555,MURS 3,Analogue,	151.94000,	151.94000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+556,MURS 4 (Blue),Analogue,	154.57000,	154.57000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+557,MURS 5 (Green),Analogue,	154.60000,	154.60000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+558,SP V01 145.790,Digital,	145.79000,	145.79000,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+559,SP V02 145.510,Digital,	145.51000,	145.51000,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+560,SP U01 441.000,Digital,	441.00000,	441.00000,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+561,SP U02 446.5,Digital,	446.50000,	446.50000,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+562,SP U03 446.075,Digital,	446.07500,	446.07500,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+563,SP U04 433.45,Digital,	433.45000,	433.45000,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+564,SP U05 430.4125,Digital,	430.41250,	430.41250,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+565,SP U06 439.4125,Digital,	439.41250,	439.41250,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+566,SP U07 430.425,Digital,	430.42500,	430.42500,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+567,SP U08 439.425,Digital,	439.42500,	439.42500,,1,1,Simplex 99 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+568,R U09 430.4375,Digital,	430.43750,	439.43750,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+569,R U10 430.450,Digital,	430.45000,	439.45000,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+570,R U11 430.4625,Digital,	430.46250,	439.46250,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+571,R U12 430.475,Digital,	430.47500,	439.47500,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+572,R U09R 430.4375,Digital,	439.43750,	430.43750,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+573,R U10R 430.450,Digital,	439.45000,	430.45000,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+574,R U11R 430.4625,Digital,	439.46250,	430.46250,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+575,R U12R 430.475,Digital,	439.47500,	430.47500,,1,1,Local 1,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+576,Ariel/Ariel VHF,Digital,	147.41250,	146.41250,,1,1,None,ARA TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+577,BC:PortAlbernir,Digital,	444.25000,	449.25000,,1,1,None,BCP TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+578,Bellevue/Cougar,Digital,	441.28750,	446.28750,,1,1,None,BVC TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+579,Bellevu/Cougar,Digital,	147.02000,	147.62000,,1,1,None,BVV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+580,Bellingham UHF,Digital,	440.92500,	445.92500,,1,1,None,BEU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+581,Bellingham VHF,Digital,	146.50000,	147.50000,,1,1,None,BEV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+582,Biggs/Juniper Pt,Digital,	443.32500,	448.32500,,1,1,None,BIJ TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+583,Bordmn/GolG,Digital,	443.37500,	448.37500,,1,1,None,BOG TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+584,BrushPr/ClrkRng,Digital,	444.11250,	449.11250,,7,1,None,BPC TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+585,Cascad Lock/Hill,Digital,	443.32500,	448.32500,,1,1,None,CAH TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+586,Chehalis/BawFaw,Digital,	146.50000,	147.50000,,1,1,None,CHB TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+587,Chinook/Megler U,Digital,	440.96250,	445.96250,,1,1,None,CMU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+588,CdA Metro,Digital,	146.45000,	147.45000,,1,1,None,CDM TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+589,Corbett/Lookout,Digital,	443.10000,	448.10000,,1,1,None,COL TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+590,Dallas/CityV,Digital,	442.88750,	447.88750,,1,1,None,DCV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+591,Ellens/SunE UHF,Digital,	440.92500,	445.92500,,1,1,None,ELU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+592,Ellens/SunE VHF,Digital,	147.41250,	146.41250,,1,1,None,ELV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+593,Ephrata/Beasley,Digital,	147.41250,	146.41250,,1,1,None,EPB TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+594,Hillsboro/Saddle,Digital,	440.81250,	445.81250,,1,1,None,HIS TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+595,HoodRiver/Burd,Digital,	443.07500,	448.07500,,1,1,None,HOB TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+596,IssaquahTiger,Digital,	442.02500,	447.02500,,1,1,None,IST TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+597,Kelso/Columbia,Digital,	444.71250,	449.71250,,1,1,None,KEC TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+598,Longview/Rainier,Digital,	441.70000,	446.70000,,1,1,None,LVR TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+599,Mazama VHF,Digital,	145.21000,	148.01000,,3,1,None,MAZ TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+601,Channel601,Digital,	430.41250,	430.41250,,1,1,None,MMB TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+606,Moses Lk/Frechmn,Digital,	440.92500,	445.92500,,1,1,None,MOF TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+607,MtHood/GvmtCamp,Digital,	444.15000,	449.15000,,1,1,None,MHG TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+608,Naneum  Ridge,Digital,	146.48750,	147.48750,,1,1,None,NMR TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+609,Newberg/MtnTopRd,Digital,	444.48750,	449.48750,,1,1,None,NEM TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+610,NBend/ValleyCamp,Digital,	440.72500,	445.72500,,1,1,None,NBV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+611,Ocean Shores,Digital,	146.41250,	147.41250,,1,1,None,OCS TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+612,Olympia/Cap Pk,Digital,	440.71250,	445.71250,,1,1,None,OLC TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+613,Portland/MtScott,Digital,	441.32500,	446.32500,,7,1,None,POM TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+614,Portland/PPMC,Digital,	444.83750,	449.83750,,7,1,None,POP TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+615,Portland/Sylvan,Digital,	440.51250,	445.51250,,1,1,None,POS TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+616,Pullman/Pullman,Digital,	440.70000,	445.70000,,1,1,None,PUW TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+617,Salem/Prospect,Digital,	441.27500,	446.27500,,1,1,None,SPH TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+618,Salem/Popcorn,Digital,	145.35000,	144.75000,,1,1,None,SLP TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+619,Seattle/Metro,Digital,	441.32500,	446.32500,,1,1,None,SEM TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+620,Shelton/SpncrLk,Digital,	147.02000,	147.62000,,2,1,None,SHL TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+621,Shoreline/SHR,Digital,	440.12500,	445.12500,,1,1,None,SHR TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+622,Spokane/Lkout U,Digital,	444.15000,	449.15000,,1,1,None,SPL TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+623,Spokane/Krell U,Digital,	444.12500,	449.12500,,1,1,None,SKU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+624,Spokane/Krell V,Digital,	147.41250,	146.41250,,1,1,None,SKV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+625,SpknVly/RdgcrstV,Digital,	147.46250,	146.46250,,1,1,None,SRv TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+626,SpknVly/RdgcrstU,Digital,	440.78750,	445.78750,,1,1,None,SRu TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+627,Tacoma/Ruston,Digital,	440.72500,	445.72500,,1,1,None,TAR TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+628,Tacoma/Baldi U,Digital,	441.35000,	446.35000,,1,1,None,TBU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+629,Tacoma/Baldi V,Digital,	146.43750,	147.43750,,1,1,None,TBV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+630,TheDall/StackrBu,Digital,	443.10000,	448.10000,,1,1,None,THS TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+631,Tri-Citi/JOJ UHF,Digital,	440.73750,	445.73750,,1,1,None,TRU TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+632,Tri-Citi/JOJ VHF,Digital,	146.42500,	147.42500,,1,1,None,TRV TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+633,TroutLk/FltpMtn,Digital,	443.25000,	448.25000,,1,1,None,TFM TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+634,Wenatchee/LoBdgr,Digital,	443.75000,	448.75000,,1,1,None,WEN TGS,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+635,Widbey Island,Digital,	440.70000,	445.70000,,1,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+636,Winthrop/RiserLk,Digital,	145.12500,	147.92500,,3,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+637,Yakima/Elephant,Digital,	147.12000,	147.72000,,1,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+638,BEARS W.Tiger,Digital,	442.07500,	447.07500,,2,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+639,Seattle/Central,Digital,	440.77500,	445.77500,,2,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+640,Seattle/North,Digital,	441.02500,	446.02500,,2,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+641,Seattle/West,Digital,	440.97500,	445.97500,,2,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+642,Buck Mt.,Digital,	440.76250,	445.76250,,2,1,None,None,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
