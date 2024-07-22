@@ -6,3 +6,5 @@ Used https://github.com/mycodeplug/example-codeplug to generate intial code plug
 Download zip and extract: https://github.com/desertblade/OpenGD77-PNW/archive/refs/heads/main.zip
 
 In OpenGC77 CPS got to File->CSV-Import CSV and choose the zip folder
+
+Be sure to update **DMR ID and callsign** (double click) and download callsign database (under Extras) 
