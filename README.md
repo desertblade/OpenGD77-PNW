@@ -8,3 +8,5 @@ Download zip and extract: https://github.com/desertblade/OpenGD77-PNW/archive/re
 In OpenGC77 CPS got to File->CSV-Import CSV and choose the zip folder
 
 Be sure to update **DMR ID and callsign** (double click) and download callsign database (under Extras) 
+
+I am using this on a TYT MD-UV390 running OpenGD77
