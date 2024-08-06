@@ -1,0 +1,80 @@
+Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude
+1,Home Hotspot,Digital,	430.43750,	439.43750,,1,1,None,HOTSPOT,None,Off,Off,,,,P2,No,No,No,90,Off,No,No,None,0,0
+2,APRS,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,P9,No,No,No,90,Off,No,No,APRS,0,0
+5,BC:W.Vancvr,Digital,	443.85000,	448.85000,,1,1,None,BC PNW,302718,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+6,BC:N.Vancvr,Digital,	443.40000,	448.40000,,1,1,None,BC PNW,302701,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+7,BC:Nanaimo,Digital,	440.82500,	445.82500,,1,1,None,BC PNW,302058,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+8,BC:NewWstmnstr,Digital,	444.60000,	449.60000,,1,1,None,BC PNW,302700,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+9,BC:PortAlberni,Digital,	444.25000,	449.25000,,1,1,None,BC PNW,302125,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+10,BC:Squamish,Digital,	443.85000,	448.85000,,3,1,None,BC PNW,302025,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+11,BC:UBC,Digital,	442.17500,	447.17500,,1,1,None,BC PNW,302719,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+12,BC:Whistler,Digital,	443.85000,	448.85000,,2,1,None,BC PNW,302011,Off,Off,,,,Master,No,No,No,0,Off,No,No,None,0,0
+13,WA1:Sultan,Digital,	444.40000,	449.40000,,1,1,None,SUL PNW,315315,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.751,-120.7401
+14,WA1:BellinghamU,Digital,	440.92500,	445.92500,,1,1,None,BEU PNW,315320,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.6754,-122.3529
+15,WA1:BellinghamV,Digital,	146.50000,	147.50000,,1,1,None,BEV PNW,315347,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.7,-122.39
+16,WA1:Tulalip East,Digital,	442.35000,	447.35000,,1,1,None,TLx PNW,312366,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.087,-122.1902
+17,WA1:Tulalip West,Digital,	444.10000,	449.10000,,1,1,None,TLx PNW,311875,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.055,-122.2485
+18,WA3:Chehalis,Digital,	146.50000,	147.50000,,1,1,None,CHB PNW,315332,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.48,-123.21
+19,WA3:Shelton,Digital,	147.02000,	147.62000,,2,1,None,SHL PNW,311979,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+20,WA3:Ocean Shores,Digital,	146.41250,	147.41250,,1,1,None,OCS PNW,312432,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+21,WA4:Ariel VHF,Digital,	147.41250,	146.41250,,1,1,None,ARA PNW,310780,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.9567,-122.5709
+22,WA4:BrushPrairie,Digital,	444.11250,	449.11250,,7,1,None,BPC PNW,312565,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.7269,-122.411
+23,WA4:Kelso,Digital,	444.71250,	449.71250,,1,1,None,KEC PNW,315330,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.199,-122.9681
+24,WA4:Longview,Digital,	441.70000,	446.70000,,1,1,None,LVR PNW,315328,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.199,-122.9681
+25,WA4:Cathlamet,Digital,	146.45000,	147.45000,,1,1,None,CWM PNW,314129,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+26,WA5:TacomaBaldiU,Digital,	441.35000,	446.35000,,1,1,None,None,315307,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.2211,-121.8509
+27,WA5:TacomaBaldiV,Digital,	146.43750,	147.43750,,1,1,None,None,315329,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.18,-121.94
+28,WA5:RavensRoostU,Digital,	440.71250,	445.71250,,1,1,None,RRU PNW,314330,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+29,WA5:RavensRoostV,Digital,	146.48750,	147.48750,,2,1,None,RRV PNW,313887,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+30,WA5:TacomaRuston,Digital,	440.72500,	445.72500,,1,1,None,None,315313,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.2528,-122.4442
+31,WA6:Bellevue UHF,Digital,	441.28750,	446.28750,,1,1,None,BVC PNW,315309,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.6104,-122.2009
+32,WA6:Bellevue VHF,Digital,	147.02000,	147.62000,,1,1,None,BVV PNW,312947,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.6104,-122.2009
+33,WA6:Issaquah UHF,Digital,	442.02500,	447.02500,,1,1,None,IST PNW,315339,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+34,WA6:Issaquah VHF,Digital,	146.87500,	146.27500,,1,1,None,ITV PNW,312148,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+35,WA6:Shoreline,Digital,	440.12500,	445.12500,,1,1,None,SHR PNW,313067,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.7431,-122.2952
+36,WA7:Ephrata,Digital,	147.41250,	146.41250,,1,1,None,EPB PNW,311399,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+37,WA7:Mazama/Fawn,Digital,	145.21000,	148.01000,,3,1,None,MAZ PNW,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.79,-122.5
+38,WA7:Mazama/Grizz,Digital,	444.85000,	449.85000,,3,1,None,None,315302,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0.128,0.008
+39,WA7:Lind,Digital,	147.41250,	146.41250,,1,1,None,None,313882,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+40,WA7:Wenatchee,Digital,	443.75000,	448.75000,,1,1,None,None,315349,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.421,-120.3083
+41,WA7:Naneum Ridge,Digital,	146.48750,	147.48750,,1,1,None,NMR PNW,315319,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+42,WA7:Winthrop,Digital,	145.12500,	147.92500,,3,1,None,WRL PNW,310048,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,48.5,-120.22
+43,WA7:Ellensburg V,Digital,	147.41250,	146.41250,,1,1,None,ELV PNW,315348,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+44,WA8:Yakima,Digital,	147.12000,	147.72000,,1,1,None,YAK PNW,315344,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.5,-120.3
+45,WA8:Prosser,Digital,	147.38000,	146.38000,,1,1,None,PHH PNW,313590,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+46,WA8:TriCitiesUHF,Digital,	440.73750,	445.73750,,1,1,None,None,311128,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.103,-119.1289
+47,WA8:TriCitiesVHF,Digital,	146.42500,	147.42500,,1,1,None,None,310781,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.103,-119.128
+48,WA9:Palouse,Digital,	444.15000,	449.15000,,1,1,None,PAK PNW,310848,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+49,WA9:SpokaneS UHF,Digital,	444.12500,	449.12500,,1,1,None,SKU PNW,315327,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+50,WA9:SpokaneS VHF,Digital,	147.41250,	146.41250,,1,1,None,SKV PNW,310228,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.6587,-117.426
+51,WA9:SpokaneN UHF,Digital,	444.15000,	449.15000,,1,1,None,SPL PNW,315310,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.812,-117.508
+52,WA9:SpknVly,Digital,	147.46250,	146.46250,,1,1,None,SRv PNW,312222,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,0,0
+53,OR:Dallas/CityV,Digital,	442.88750,	447.88750,,1,1,None,DCV PNW,314119,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,43.8041,-120.5542
+54,OR:Manzanita,Digital,	440.22500,	445.22500,,1,1,None,MNZ PNW,314300,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.7239,-123.9328
+55,OR:Salem/Popcorn,Digital,	145.35000,	144.75000,,1,1,None,None,312893,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,44.943,-123.0339
+56,OR:Bend/Powell,Digital,	440.93750,	445.93750,,1,1,None,BPB PNW,313462,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,44.0581,-121.3153
+57,OR:Portland/PPMC,Digital,	444.83750,	449.83750,,7,1,None,POP PNW,310395,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5286,-122.6133
+58,OR:SalemProspect,Digital,	441.27500,	446.27500,,1,1,None,SPH PNW,311450,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,44.8545,-123.122
+59,OR:Prineville,Digital,	441.25000,	446.25000,,1,1,None,PRT PNW,311455,Off,Off,,,,Master,No,No,No,90,Off,Yes,No,None,44.2998,-120.8344
+60,I84:HoodRvr/Burd,Digital,	443.07500,	448.07500,,1,1,None,I84 PNW,311387,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.7367,-121.4461
+61,I84:CascadeLocks,Digital,	443.32500,	448.32500,,1,1,None,None,311388,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.6698,-121.8906
+62,I84:Trout Lake,Digital,	443.25000,	448.25000,,1,1,None,I84 PNW,311173,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.0276,-121.6122
+63,I84:Bordmann,Digital,	443.37500,	448.37500,,1,1,None,I84 PNW,311192,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.8556,-119.9108
+64,I84:MtHood/GCamp,Digital,	444.15000,	449.15000,,1,1,None,I84 PNW,311190,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.345,-121.7117
+65,I84:Gresham,Digital,	443.07500,	448.07500,,1,1,None,I84 PNW,314103,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5168,-122.4068
+66,I84:Biggs Junc,Digital,	443.32500,	448.32500,,1,1,None,I84 PNW,311389,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.7403,-120.7212
+67,I84:Corbett,Digital,	443.10000,	448.10000,,1,1,None,I84 PNW,312435,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5317,-122.291
+68,I84:HoodRvr/MtDe,Digital,	443.08750,	448.08750,,1,1,None,I84 PNW,312498,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.6485,-121.7226
+69,I84:PDX/MtScott,Digital,	441.32500,	446.32500,,7,1,None,I84 PNW,314116,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.4547,-122.5513
+70,I84:Pine Hollow,Digital,	444.83750,	449.83750,,1,1,None,I84 PNW,312937,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5286,-122.6133
+71,I84:Hillsboro,Digital,	440.81250,	445.81250,,1,1,None,I84 PNW,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.545,-123.3823
+72,I84:The Dalles,Digital,	443.10000,	448.10000,,1,1,None,I84 PNW,311390,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5317,-122.291
+73,I84:PDX/Sylvan,Digital,	440.51250,	445.51250,,1,1,None,I84 PNW,311391,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,45.5051,-122.675
+74,ID:CdA,Digital,	440.92500,	445.92500,,1,1,None,ID PNW,311605,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.659,-116.9639
+75,ID:Lewiston,Digital,	442.10000,	447.10000,,1,1,None,ID PNW,311892,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,46.0759,-116.8519
+76,ID:SaintJoe,Digital,	443.75000,	448.75000,,1,1,None,ID PNW,313879,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.34,-116.5649
+77,ID:Saint Maries,Digital,	443.75000,	448.75000,,1,1,None,ID PNW,311394,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.34,-116.5649
+78,Seattle Central,Digital,	440.77500,	445.77500,,2,1,None,SEATTLE,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.624,-122.315
+79,Seattle North,Digital,	441.02500,	446.02500,,2,1,None,SEATTLE,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.7719,-122.2809
+80,Seattle South,Digital,	440.97500,	445.97500,,2,1,None,SEATTLE,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.5404,-122.3782
+81,Seattle East,Digital,	442.07500,	447.07500,,2,1,None,SEATTLE,None,Off,Off,,,,Master,No,No,No,90,Off,No,No,None,47.5087,-121.9851
