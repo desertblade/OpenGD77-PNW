@@ -13,10 +13,21 @@ Be sure to update **DMR ID and callsign** (double click) and download callsign d
 
 If you want you can then File->CSV-Append CSV and import Simplex-FRS-GMRS-NOAA folder for those channels.
 
-When I generate other csv lists for analog and digital repeaters for my use, I will add them to this repository.
+# RepeaterBook Imports
 
+[RepeaterBook](https://www.repeaterbook.com/) supports OpenGD77! 
+
+It's tucked away under Export->Radioddity->OpenGD77 Channels File.
+
+You can then load it in to OpenGD77 CPS using File->CSV-Append CSV.
+
+[RepeaterBook](https://www.repeaterbook.com/) export will be missing longitude/latitude and you will need to create Zones for organization. If you export to CSV the longitude/latitude are there and should be copy/paste of those columns. Be sure to make sure the order is the same!
+
+[RepeaterBook](https://www.repeaterbook.com/) does not include Talkgroups for DMR stations in the export. So this files in this repo are a great start to get basic DMR repeaters from the PNW into your radio.
+
+Any other DMR files I create I will include in sub folders here. If anyone has any send them over!
 
 ## Notes
 I am using this on a TYT MD-UV390 running the latest OpenGD77.
 
-The "old" folder is my original export, might be useful for someone.  
+N7DSB
