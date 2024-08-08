@@ -23,7 +23,7 @@ You can then load it in to OpenGD77 CPS using File->CSV-Append CSV.
 
 [RepeaterBook](https://www.repeaterbook.com/) export will be missing longitude/latitude and you will need to create Zones for organization. If you export to CSV the longitude/latitude are there and should be copy/paste of those columns. Be sure to make sure the order is the same!
 
-[RepeaterBook](https://www.repeaterbook.com/) does not include Talkgroups for DMR stations in the export. So this files in this repo are a great start to get basic DMR repeaters from the PNW into your radio.
+[RepeaterBook](https://www.repeaterbook.com/) does not include Talkgroups for DMR stations in the export. So the files in this repo are a great start to get basic DMR repeaters from the PNW into your radio.
 
 Any other DMR files I create I will include in sub folders here. If anyone has any send them over!
 
