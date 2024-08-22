@@ -21,11 +21,9 @@ It's tucked away under Export->Radioddity->OpenGD77 Channels File.
 
 You can then load it in to OpenGD77 CPS using File->CSV-Append CSV.
 
-[RepeaterBook](https://www.repeaterbook.com/) export will be missing longitude/latitude and you will need to create Zones for organization. If you export to CSV the longitude/latitude are there and should be copy/paste of those columns. Be sure to make sure the order is the same!
-
 [RepeaterBook](https://www.repeaterbook.com/) does not include Talkgroups for DMR stations in the export. So the files in this repo are a great start to get basic DMR repeaters from the PNW into your radio.
 
-An alternative you can use  https://github.com/desertblade/OpenGD77-Repeaterbook to generate Channels.csv and Zones from Repeaterbook. 
+An alternative you can use  https://github.com/desertblade/OpenGD77-Repeaterbook to generate Channels.csv and Zones.csv from Repeaterbook. 
 
 ## Notes
 I am using this on a TYT MD-UV390 running the latest OpenGD77.
