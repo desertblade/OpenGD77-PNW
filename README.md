@@ -25,7 +25,7 @@ You can then load it in to OpenGD77 CPS using File->CSV-Append CSV.
 
 [RepeaterBook](https://www.repeaterbook.com/) does not include Talkgroups for DMR stations in the export. So the files in this repo are a great start to get basic DMR repeaters from the PNW into your radio.
 
-Any other DMR files I create I will include in sub folders here. If anyone has any send them over!
+An alternative you can use  https://github.com/desertblade/OpenGD77-Repeaterbook to generate Channels.csv and Zones from Repeaterbook. 
 
 ## Notes
 I am using this on a TYT MD-UV390 running the latest OpenGD77.
