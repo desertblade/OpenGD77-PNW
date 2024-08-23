@@ -55,10 +55,10 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 54,M136 3,Analogue,	151.94000,	151.94000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
 55,M136 4,Analogue,	154.57000,	154.57000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
 56,M136 5,Analogue,	154.60000,	154.60000,12.5,,,,,,,,136.5,136.5,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
-57,NOAA 1,Analogue,	162.40000,	162.40000,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-58,NOAA 2,Analogue,	162.42500,	162.42500,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-59,NOAA 3,Analogue,	162.45000,	162.45000,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-60,NOAA 4,Analogue,	162.47500,	162.47500,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-61,NOAA 5,Analogue,	162.50000,	162.50000,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-62,NOAA 6,Analogue,	162.52500,	162.52500,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
-63,NOAA 7,Analogue,	162.55000,	162.55000,25,,,,,,,,None,None,Disabled,Master,Yes,No,No,90,Off,No,No,None,0,0
+57,NOAA 1,Analogue,	162.40000,	162.40000,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+58,NOAA 2,Analogue,	162.42500,	162.42500,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+59,NOAA 3,Analogue,	162.45000,	162.45000,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+60,NOAA 4,Analogue,	162.47500,	162.47500,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+61,NOAA 5,Analogue,	162.50000,	162.50000,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+62,NOAA 6,Analogue,	162.52500,	162.52500,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
+63,NOAA 7,Analogue,	162.55000,	162.55000,25,,,,,,,,None,None,20%,Master,Yes,No,No,90,Off,No,No,None,0,0
