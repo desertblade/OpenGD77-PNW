@@ -12,6 +12,7 @@ In OpenGC77 CPS got to File->CSV-Import CSV and choose PNW-DMR to import DMR rep
 Be sure to update **DMR ID and callsign** (double click) and download callsign database (under Extras).
 
 If you want you can then File->CSV-Append CSV and import Simplex-FRS-GMRS-NOAA folder for those channels. 
+
 Note: Added TX/RX tones for [Retevis RT16](https://www.amazon.com/Retevis-Talkies-Rechargeable-Privacy-Flashlight/dp/B07R1JC8RC) cause that is what my family uses. OpenGD77 will not broadcast out of band by default.
 
 # RepeaterBook Imports
