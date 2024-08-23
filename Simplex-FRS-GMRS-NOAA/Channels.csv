@@ -23,28 +23,28 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 22,FM 445.875,Analogue,	445.87500,	445.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
 23,FM 445.9,Analogue,	445.90000,	445.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
 24,FM 445.975,Analogue,	445.97500,	445.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,90,Off,No,No,None,0,0
-25,FRS 1,Analogue,	462.56250,	462.56250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-26,FRS 2,Analogue,	462.58750,	462.58750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-27,FRS 3,Analogue,	462.61250,	462.61250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-28,FRS 4,Analogue,	462.63750,	462.63750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-29,FRS 5,Analogue,	462.66750,	462.66750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-30,FRS 6,Analogue,	462.68750,	462.68750,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-31,FRS 7,Analogue,	462.71250,	462.71250,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-32,FRS 8 (IS),Analogue,	467.56250,	467.56250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-33,FRS 9 (IS),Analogue,	467.58750,	467.58750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-34,FRS 10 (IS),Analogue,	467.61250,	467.61250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-35,FRS 11 (IS),Analogue,	467.63750,	467.63750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-36,FRS 12 (IS),Analogue,	467.66250,	467.66250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-37,FRS 13 (IS),Analogue,	467.68750,	467.68750,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-38,FRS 14 (IS),Analogue,	467.71250,	467.71250,12.5,,,,,,,,None,None,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
-39,GMRS 1 (15),Analogue,	462.55000,	462.55000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-40,GMRS 2 (16),Analogue,	462.57500,	462.57500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-41,GMRS 3 (17),Analogue,	462.60000,	462.60000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-42,GMRS 4 (18),Analogue,	462.62500,	462.62500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-43,GMRS 5 (19),Analogue,	462.65000,	462.65000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-44,GMRS 6 (20),Analogue,	462.67500,	462.67500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-45,GMRS 7 (21),Analogue,	462.70000,	462.70000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
-46,GMRS 8 (22),Analogue,	462.72500,	462.72500,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+25,FRS 1,Analogue,	462.56250,	462.56250,12.5,,,,,,,,67.0,67.0,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+26,FRS 2,Analogue,	462.58750,	462.58750,12.5,,,,,,,,118.8,118.8,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+27,FRS 3,Analogue,	462.61250,	462.61250,12.5,,,,,,,,127.3,127.3,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+28,FRS 4,Analogue,	462.63750,	462.63750,12.5,,,,,,,,131.8,131.8,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+29,FRS 5,Analogue,	462.66750,	462.66750,12.5,,,,,,,,136.5,136.5,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+30,FRS 6,Analogue,	462.68750,	462.68750,12.5,,,,,,,,141.3,141.3,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+31,FRS 7,Analogue,	462.71250,	462.71250,12.5,,,,,,,,146.2,146.2,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+32,FRS 8 (IS),Analogue,	467.56250,	467.56250,12.5,,,,,,,,D243N,D243N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+33,FRS 9 (IS),Analogue,	467.58750,	467.58750,12.5,,,,,,,,D032N,D032N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+34,FRS 10 (IS),Analogue,	467.61250,	467.61250,12.5,,,,,,,,D047N,D047N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+35,FRS 11 (IS),Analogue,	467.63750,	467.63750,12.5,,,,,,,,D051N,D051N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+36,FRS 12 (IS),Analogue,	467.66250,	467.66250,12.5,,,,,,,,D053N,D053N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+37,FRS 13 (IS),Analogue,	467.68750,	467.68750,12.5,,,,,,,,D065N,D065N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+38,FRS 14 (IS),Analogue,	467.71250,	467.71250,12.5,,,,,,,,D116N,D116N,Disabled,P3,No,No,No,90,Off,No,No,None,0,0
+39,GMRS 1 (15),Analogue,	462.55000,	462.55000,12.5,,,,,,,,123.0,123.0,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+40,GMRS 2 (16),Analogue,	462.57500,	462.57500,12.5,,,,,,,,D743I,D743I,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+41,GMRS 3 (17),Analogue,	462.60000,	462.60000,12.5,,,,,,,,D332I,D332I,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+42,GMRS 4 (18),Analogue,	462.62500,	462.62500,12.5,,,,,,,,127.3,127.3,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+43,GMRS 5 (19),Analogue,	462.65000,	462.65000,12.5,,,,,,,,D243I,D243I,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+44,GMRS 6 (20),Analogue,	462.67500,	462.67500,12.5,,,,,,,,D606N,D606N,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+45,GMRS 7 (21),Analogue,	462.70000,	462.70000,12.5,,,,,,,,D731I,D731I,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
+46,GMRS 8 (22),Analogue,	462.72500,	462.72500,12.5,,,,,,,,136.5,136.5,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
 47,MURS 1,Analogue,	151.82000,	151.82000,12.5,,,,,,,,None,None,Disabled,P6,No,No,Yes,90,Off,No,No,None,0,0
 48,MURS 2,Analogue,	151.88000,	151.88000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
 49,MURS 3,Analogue,	151.94000,	151.94000,12.5,,,,,,,,None,None,Disabled,P6,No,No,No,90,Off,No,No,None,0,0
